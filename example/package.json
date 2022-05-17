@@ -19,7 +19,7 @@
     "@react-navigation/native": "^5.9.4",
     "@react-navigation/stack": "^5.14.4",
     "faker": "^4.1.0",
-    "nanoid": "^3.1.20",
+    "nanoid": "^3.1.31",
     "react": "17.0.2",
     "react-native": "0.66.3",
     "react-native-gesture-handler": "^1.10.3",
